@@ -1,5 +1,8 @@
 
-Localhost:8082 to use for API requests. Either use Postman or Swagger which is configured in the Application and it will show all the available APIs to test.
+Localhost:8082 port 8082 is the port used to access the Application.
+Java version JDK 11, must be installed in yoour Eclipse IDE to run the code.
+
+. Either use Postman or Swagger which is configured in the Application and it will show all the available APIs to test.
 Aim of the project
 This project represents my journey throughout the QA Software Development botcamp, the purpose of the project was to develop an Ecommerce API which had to showcase our knowledge acquired during the 10 weeks training. We had to create a working Spring Boot API, using this to test our understanding of the following concepts shown below:S
 .Agile & Project Management using (Git)
